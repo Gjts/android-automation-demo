@@ -32,3 +32,13 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Nested mobile app build caches and local artifacts
+src/mobile/**/.gradle/
+src/mobile/**/build/
+src/mobile/**/local.properties
+src/mobile/**/.idea/
+src/mobile/**/captures/
+src/mobile/**/.externalNativeBuild/
+src/mobile/**/.cxx/
+src/mobile/**/.gradle-user-home/
