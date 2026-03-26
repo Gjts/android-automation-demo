@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Automation App</string>
+    <string name="accessibility_service_label">Automation App 自动化服务</string>
+    <string name="accessibility_service_description">此服务用于自动化操作 Target App 的 UI 流程，包括登录、判断和 PIN 输入。</string>
+</resources>
